@@ -1,0 +1,16 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "description": "jest unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "Eduardo Garcia",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
